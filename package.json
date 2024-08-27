@@ -1,0 +1,16 @@
+{
+  "name": "bcdicebot",
+  "version": "1.0.0",
+  "description": "\"BCdiceを使えるダイスボット\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
+{
+	"scripts": {
+		"start": "sh start.sh"
+	},
+}
