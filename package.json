@@ -7,10 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
-}
-{
-	"scripts": {
-		"start": "sh start.sh"
-	},
+  "license": "ISC",
+  "scripts": {
+    "start": "sh start.sh"
+  },
 }
